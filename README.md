@@ -15,9 +15,8 @@
     GPT asosidagi xavfsizlikni tekshirish vositasi. 
     <br />
     ·
-    <a href="https://www.youtube.com/watch?v=lAjLIj1JT3c">View Demo</a>
+    <a href="https://youtu.be/v2B49BID-x0">View Demo</a>
     
-    </p>
 </div>
 
 
